@@ -1,4 +1,4 @@
-### OS version info
+### OS version info.
 
 #### Full info
 ```sh
